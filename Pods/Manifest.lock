@@ -1,0 +1,29 @@
+PODS:
+  - GRDB.swift (5.12.0):
+    - GRDB.swift/standard (= 5.12.0)
+  - GRDB.swift/standard (5.12.0)
+  - RxGRDB (2.0.0):
+    - RxGRDB/default (= 2.0.0)
+    - RxSwift (~> 6.0)
+  - RxGRDB/default (2.0.0):
+    - GRDB.swift (~> 5.0)
+    - RxSwift (~> 6.0)
+  - RxSwift (6.2.0)
+
+DEPENDENCIES:
+  - RxGRDB
+
+SPEC REPOS:
+  trunk:
+    - GRDB.swift
+    - RxGRDB
+    - RxSwift
+
+SPEC CHECKSUMS:
+  GRDB.swift: f94b00ac11ab22597771b6a47211d1c44284395a
+  RxGRDB: 2ed9c18392c87b34d7a085d03831b4081d30e64e
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+
+PODFILE CHECKSUM: dd172b662bbf76a40c9db489eb78debb938d5947
+
+COCOAPODS: 1.11.2

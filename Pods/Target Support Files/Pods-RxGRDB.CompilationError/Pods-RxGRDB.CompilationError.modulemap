@@ -1,0 +1,6 @@
+framework module Pods_RxGRDB_CompilationError {
+  umbrella header "Pods-RxGRDB.CompilationError-umbrella.h"
+
+  export *
+  module * { export * }
+}
