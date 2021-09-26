@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		44C162113B4B68BB565D56D9 /* Pods_RxGRDB_CompilationError.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C463538CF3094C433FE2091B /* Pods_RxGRDB_CompilationError.framework */; };
 		48A0BBA32700A9E3005AE5FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A0BBA22700A9E3005AE5FC /* AppDelegate.swift */; };
-		48A0BBA52700A9E3005AE5FC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A0BBA42700A9E3005AE5FC /* SceneDelegate.swift */; };
 		48A0BBA72700A9E3005AE5FC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A0BBA62700A9E3005AE5FC /* ViewController.swift */; };
 		48A0BBAA2700A9E3005AE5FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48A0BBA82700A9E3005AE5FC /* Main.storyboard */; };
 		48A0BBAC2700A9E5005AE5FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48A0BBAB2700A9E5005AE5FC /* Assets.xcassets */; };
@@ -19,7 +18,6 @@
 /* Begin PBXFileReference section */
 		48A0BB9F2700A9E3005AE5FC /* RxGRDB.CompilationError.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxGRDB.CompilationError.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48A0BBA22700A9E3005AE5FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		48A0BBA42700A9E3005AE5FC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		48A0BBA62700A9E3005AE5FC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		48A0BBA92700A9E3005AE5FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		48A0BBAB2700A9E5005AE5FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -48,7 +46,6 @@
 				DC235128EEDE2F796F0A0F6D /* Pods-RxGRDB.CompilationError.debug.xcconfig */,
 				F86BF7285950998443617978 /* Pods-RxGRDB.CompilationError.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -74,7 +71,6 @@
 			isa = PBXGroup;
 			children = (
 				48A0BBA22700A9E3005AE5FC /* AppDelegate.swift */,
-				48A0BBA42700A9E3005AE5FC /* SceneDelegate.swift */,
 				48A0BBA62700A9E3005AE5FC /* ViewController.swift */,
 				48A0BBA82700A9E3005AE5FC /* Main.storyboard */,
 				48A0BBAB2700A9E5005AE5FC /* Assets.xcassets */,
@@ -209,7 +205,6 @@
 			files = (
 				48A0BBA72700A9E3005AE5FC /* ViewController.swift in Sources */,
 				48A0BBA32700A9E3005AE5FC /* AppDelegate.swift in Sources */,
-				48A0BBA52700A9E3005AE5FC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
